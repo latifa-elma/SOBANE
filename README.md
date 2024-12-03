@@ -1,68 +1,28 @@
-# Rapport d'évaluation SOBANE
+# Rapport d'évaluation SOBANE complet
+
 
 ## Facette 1: Locaux et zones de travail
 
-### Question: Comment évaluez-vous la taille et l'organisation des locaux par rapport aux activités réalisées?
+| Question                                                                                         | Réponse                                                    | Points Positifs                                                                                                                                                                              | Points Négatifs                                                                                                                                                                                                                             |
+|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Comment évaluez-vous la taille et l'organisation des locaux par rapport aux activités réalisées? | De taille suffisante et personne n'est isolé               | La taille des locaux est perçue comme suffisante., L'absence d'isolement des employés est un point positif pour la communication et la collaboration.                                        | La réponse est très brève et manque de détails. On ne sait pas ce qui est jugé suffisant., L'appréciation est subjective et ne permet pas de comprendre concrètement l'organisation de l'espace.                                            |
+| Décrivez l'état des voies de circulation et leur accessibilité.                                  | Entre les machines sont encombrées par des chutes de bois, | Bonne visibilité, Présence de moyens de transport internes (pont roulant, chariots automoteurs, transpalettes)                                                                               | Encombrement des voies de circulation (chutes de bois, déchets), Absence de traçage au sol                                                                                                                                                  |
+|                                                                                                  | des déchets et il n'a y a pas de traçage au sol.           |                                                                                                                                                                                              |                                                                                                                                                                                                                                             |
+|                                                                                                  | Le transport entre les postes se fait grâce à un pont      |                                                                                                                                                                                              |                                                                                                                                                                                                                                             |
+|                                                                                                  | roulant ou des 3 chariots automoteurs ou des               |                                                                                                                                                                                              |                                                                                                                                                                                                                                             |
+|                                                                                                  | transpalettes, Bonne visibilité.                           |                                                                                                                                                                                              |                                                                                                                                                                                                                                             |
+| Quel est le niveau d'encombrement des espaces de travail?                                        | Encombrés par le stockage anarchique                       | Identification claire d'un problème: l'encombrement., Utilisation du terme 'anarchique' qui suggère un manque d'organisation et de structure, ce qui permet de cibler la source du problème. | Manque de précisions sur la nature de l'encombrement (documents, matériel, équipements, etc.)., Manque de détails sur l'étendue de l'encombrement (quelques zones, la majorité des espaces, etc.)., Réponse subjective et non quantifiable. |
 
-**Réponse:** De taille suffisante et personne n'est isolé
+### Statut global: 😐
 
-#### Analyse
-
-**Points Positifs:**
-- Erreur d'analyse
-
-**Points Négatifs:**
-- Erreur d'analyse
-
-**Points à Étudier:**
-- Erreur système
-
-**Recommandations:**
-- Réessayer plus tard
-
----
-
-### Question: Décrivez l'état des voies de circulation et leur accessibilité.
-
-**Réponse:** Entre les machines sont encombrées par des chutes de bois,
-des déchets et il n'a y a pas de traçage au sol.
-Le transport entre les postes se fait grâce à un pont
-roulant ou des 3 chariots automoteurs ou des
-transpalettes, Bonne visibilité.
-
-#### Analyse
-
-**Points Positifs:**
-- Erreur d'analyse
-
-**Points Négatifs:**
-- Erreur d'analyse
-
-**Points à Étudier:**
-- Erreur système
-
-**Recommandations:**
-- Réessayer plus tard
-
----
-
-### Question: Quel est le niveau d'encombrement des espaces de travail?
-
-**Réponse:** Encombrés par le stockage anarchique.
-
-#### Analyse
-
-**Points Positifs:**
-- Erreur d'analyse
-
-**Points Négatifs:**
-- Erreur d'analyse
-
-**Points à Étudier:**
-- Erreur système
-
-**Recommandations:**
-- Réessayer plus tard
-
----
-
+### Recommandations:
+- Demander des précisions à l'utilisateur sur ce qu'il entend par « suffisant » et « personne n'est isolé ».  Exemples : « Suffisant pour quelles activités ? », « Comment l'espace est-il aménagé pour favoriser les échanges ? »
+- Effectuer une visite des locaux pour observer l'organisation de l'espace et recueillir des données objectives sur la surface, le nombre de postes de travail, etc.
+- Mettre en place un plan de nettoyage régulier des voies de circulation pour éliminer les chutes de bois et les déchets.
+- Implanter un traçage au sol clair pour délimiter les voies de circulation et les zones de stockage.
+- Évaluer la pertinence et l'efficacité des moyens de transport internes en fonction des besoins et optimiser leur utilisation.
+- Mettre en place des procédures de gestion des déchets et des chutes de bois pour minimiser l'encombrement.
+- Quantifier l'encombrement (par exemple : pourcentage de surface encombrée, nombre de zones concernées).
+- Décrire la nature de l'encombrement (par exemple : archives, fournitures, matériel informatique obsolète).
+- Mener une enquête auprès des employés pour comprendre l'impact de l'encombrement et identifier des solutions.
+- Envisager des solutions de rangement adaptées aux besoins et mettre en place des procédures de gestion des espaces de travail.
