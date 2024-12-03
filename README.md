@@ -1,0 +1,36 @@
+# Rapport d'évaluation SOBANE complet
+
+
+## Facette 1: Locaux et zones de travail
+
+| Question                                                                                         | Réponse                                                    | Points Positifs                                                                                    | Points Négatifs                                                                                                                                                   |
+|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|:---------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Comment évaluez-vous la taille et l'organisation des locaux par rapport aux activités réalisées? | De taille suffisante et personne n'est isolé               | La taille des locaux est jugée suffisante.                                                         | Le terme "suffisante" est vague et ne permet pas de mesurer précisément l'adéquation entre la taille des locaux et les activités réalisées.                       |
+|                                                                                                  |                                                            | L'absence d'isolement des employés est un point positif pour la communication et la collaboration. | L'absence d'isolement, si elle est positive pour certains aspects, peut également être un frein à la concentration et au travail individuel nécessitant du calme. |
+| Décrivez l'état des voies de circulation et leur accessibilité.                                  | Entre les machines sont encombrées par des chutes de bois, | Bonne visibilité                                                                                   | Encombrement des voies de circulation par des chutes de bois et des déchets                                                                                       |
+|                                                                                                  | des déchets et il n'a y a pas de traçage au sol.           | Présence de moyens de transport internes (pont roulant, chariots automoteurs, transpalettes)       | Absence de traçage au sol                                                                                                                                         |
+|                                                                                                  | Le transport entre les postes se fait grâce à un pont      |                                                                                                    |                                                                                                                                                                   |
+|                                                                                                  | roulant ou des 3 chariots automoteurs ou des               |                                                                                                    |                                                                                                                                                                   |
+|                                                                                                  | transpalettes, Bonne visibilité.                           |                                                                                                    |                                                                                                                                                                   |
+| Quel est le niveau d'encombrement des espaces de travail?                                        | Encombrés par le stockage anarchique.                      | La réponse est concise et directe.                                                                 | Manque de précision sur la nature de l'encombrement.                                                                                                              |
+|                                                                                                  |                                                            | Identifie clairement un problème d'organisation.                                                   | Terme "anarchique" subjectif et potentiellement péjoratif.                                                                                                        |
+|                                                                                                  |                                                            |                                                                                                    | Ne quantifie pas l'encombrement (léger, modéré, sévère).                                                                                                          |
+|                                                                                                  |                                                            |                                                                                                    | Ne précise pas les zones concernées (tous les espaces, certains seulement ?).                                                                                     |
+
+|:---------------------|:--|
+| Points à approfondir | ☹ |
+
+### Recommandations:
+- Quantifier la notion de "taille suffisante" en mesurant la surface disponible par employé et en la comparant aux recommandations et normes en vigueur pour le type d'activité.
+- Mener une enquête auprès des employés pour recueillir leurs avis sur l'organisation de l'espace et identifier les points d'amélioration potentiels.
+- Envisager des solutions d'aménagement modulables pour adapter l'espace aux différents besoins et aux variations d'activité.
+- Mettre en place un système de nettoyage régulier des voies de circulation pour éliminer les chutes de bois et les déchets.
+- Implanter un traçage au sol clair pour délimiter les voies de circulation et les zones de travail.
+- Évaluer la pertinence et la sécurité de l'utilisation simultanée des différents moyens de transport et mettre en place des règles de circulation claires.
+- Mettre en place des procédures pour la gestion des chutes de bois afin d'éviter leur accumulation sur les voies de circulation (ex: conteneurs dédiés, ramassage régulier).
+- Former le personnel à la sécurité et aux bonnes pratiques de circulation dans l'atelier.
+- Clarifier la nature de l'encombrement en listant les types d'objets stockés.
+- Quantifier l'encombrement avec des termes plus précis (ex: léger, modéré, important, etc.)
+- Identifier les zones spécifiques concernées par le stockage anarchique.
+- Mener une enquête auprès des employés pour comprendre les causes du stockage anarchique et identifier des solutions.
+- Envisager des solutions de rangement et d'organisation plus efficaces (armoires, étagères, système de classement, etc.).
